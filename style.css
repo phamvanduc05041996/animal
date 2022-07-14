@@ -1,0 +1,109 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+.menu{
+    width: 1000px;
+    height: auto;
+    display: flex;
+}
+.left {
+    width: 400px;
+    height: auto;
+}
+.left img{
+    width: 400px;
+    height: auto;
+}
+.right{
+    width: 600px;
+    height: auto;
+}
+.right ul{
+    list-style: none;
+}
+.right ul li{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: red;
+    float: right;
+    padding-left: 25px;
+    margin-top: 67px;
+    margin-right: 20px;
+}
+.banner{
+    width: 1000px;
+    height: auto;
+    background-color: orange;
+}
+.banner img{
+    width: 1000px;
+    height: auto;
+    display: flex;
+}
+.content{
+    width: 1000px;
+    height: auto;
+    display: flex;
+}
+.right1{
+    width: 350px;
+    height: auto;
+}
+.right1 p{
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-left: 30px;
+}
+.right1 img{
+    width: 300px;
+    height: auto;
+}
+.left1{
+    width: 650px;
+    height: auto;
+}
+.left1 h2{
+    font-size: 40px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: red;
+    margin-top: 2px;
+}
+.left1 h3{
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    color: green;
+    padding-left: 20px;
+    margin-bottom: 0px;
+}
+.left1 p{
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: orange;
+    margin-top: 2px;
+}
+.left1 img{
+    width: 650px;
+    height: auto;
+}
+.footer{
+    width: 1000px;
+    height: auto;
+}
+.footer h2{
+    font-size: 30px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: gray;
+}
+.footer h3{
+    font-size: 25px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: gray;
+}
